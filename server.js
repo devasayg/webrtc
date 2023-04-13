@@ -26,4 +26,4 @@ io.on('connection', socket => {
   })
 })
 
-server.listen(3000,'192.168.1.6')
+server.listen(3000)
